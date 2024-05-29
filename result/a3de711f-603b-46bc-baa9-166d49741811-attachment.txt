@@ -1,0 +1,1 @@
+2024-05-29 17:08:19,639-simple_example-INFO-关键字面试在搜索结果列表的第一个搜索结果<selenium.webdriver.remote.webelement.WebElement (session="6498d1e4004b73a4799ffe5c60eec36c", element="f.8DE7B7C557A2504CCE78F816D8A44818.d.40957230420B46D021D119E6E43DF5E1.e.182")>中

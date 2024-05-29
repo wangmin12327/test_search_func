@@ -1,0 +1,1 @@
+2024-05-29 17:09:28,822-simple_example-INFO-关键字Appium在搜索结果列表的第一个搜索结果<selenium.webdriver.remote.webelement.WebElement (session="0f57f233b3a723d5dd51de9054b70974", element="f.9641F3312097EB133AD4F4816632C230.d.6D36E6787D997D5CFFAA56D963CA9D83.e.100")>中

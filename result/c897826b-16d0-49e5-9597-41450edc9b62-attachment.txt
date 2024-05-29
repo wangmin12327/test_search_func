@@ -1,0 +1,1 @@
+[32mINFO    [0m simple_example:test_search_func.py:131 关键字Appium在搜索结果列表的第一个搜索结果<selenium.webdriver.remote.webelement.WebElement (session="3260ec1233facd21585d588338545959", element="f.223B11AEB5187FD528ADD439DACB4E50.d.127B93D001604E9231DFA4452130B7F1.e.99")>中

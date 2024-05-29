@@ -1,0 +1,1 @@
+2024-05-29 16:56:41,140-simple_example-INFO-关键字Selenium在搜索结果列表的第一个搜索结果<selenium.webdriver.remote.webelement.WebElement (session="3260ec1233facd21585d588338545959", element="f.223B11AEB5187FD528ADD439DACB4E50.d.C4B3E54064E7BBDA45A84DC2F8234D9F.e.37")>中
